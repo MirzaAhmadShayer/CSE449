@@ -27,4 +27,4 @@ Group Number:11
 Group Members:
 22241167 Fahmida Ahmed
 22273001 Sushana Islam Mim
-22273008 Mirza Ahmed Shayer
+22273008 Mirza Ahmad Shayer
